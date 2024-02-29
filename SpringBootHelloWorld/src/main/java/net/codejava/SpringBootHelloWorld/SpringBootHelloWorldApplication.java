@@ -14,8 +14,14 @@ public class SpringBootHelloWorldApplication {
 	}
 
 	@RequestMapping("/")
-	public String home(){
-		return "Hello world Spring Boot";
-	}
-	
+    public String home(){
+        return "<h1>Hello world Spring Boot</h1>";
+    }
+
+    @RequestMapping("/new")
+    public String newMessage(){
+        return "<h2>This is a new message</h2>";
+    }
+
+
 }
