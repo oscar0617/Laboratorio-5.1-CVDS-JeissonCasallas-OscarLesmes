@@ -6,6 +6,8 @@ Oscar Santiago Lesmes Parra.
 
 ![WhatsApp Image 2024-02-29 at 5 04 00 PM](https://github.com/oscar0617/Laboratorio-5.1-CVDS-JeissonCasallas-OscarLesmes/assets/157759010/36424f89-4cfe-4013-a48d-f678da9b5672)
 
+![WhatsApp Image 2024-02-29 at 5 22 55 PM (2)](https://github.com/oscar0617/Laboratorio-5.1-CVDS-JeissonCasallas-OscarLesmes/assets/157759010/a1e789b5-1964-4c54-9d43-506000bb9940)
+
 
 ![WhatsApp Image 2024-02-29 at 5 23 15 PM](https://github.com/oscar0617/Laboratorio-5.1-CVDS-JeissonCasallas-OscarLesmes/assets/157759010/280ce4bd-9abf-48a1-9ff5-5727d260c716)
 
