@@ -4,6 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.CrossOrigin;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @SpringBootApplication
@@ -23,5 +26,10 @@ public class SpringBootHelloWorldApplication {
         return "<h2>This is a new message</h2>";
     }
 
+    @CrossOrigin
+    @GetMapping("/api/hello")
+    public String newMessageCors(){
+        return "<h2>Hello world Cors!</h2>";
+    }
 
 }
